@@ -27,3 +27,6 @@ while (true) {
   // This block will run indefinitely
 }
 ```
+## Note: 
+The URL object is used here for basic validation.  
+In real-world scenarios, more sophisticated methods might be needed for accurate IP address validation.
